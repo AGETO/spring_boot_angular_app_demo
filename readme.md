@@ -1,3 +1,6 @@
+
+# Einarbeitung Java Web Stack: SpringBoot, JPA, REST, AngularJS
+
 Demo App to demonstrate Java Spring Boot App with Angular JS.
 
 talk at #t3cmallorca barcamp 2016 
@@ -171,3 +174,6 @@ check out
 - cucumber / selenium  intergration-tests
 - jasmine for angular unit tests
 - much more maven libs & plugins .. https://mvnrepository.com
+
+
+KUDOS to Rico Schüppel
